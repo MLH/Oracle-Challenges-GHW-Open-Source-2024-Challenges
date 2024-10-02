@@ -6,8 +6,6 @@ Hello hackers!  This week, we're going to learn how to leverage several of Oracl
 
 * If you have any questions about Oracle or their Global Hack Week challenges, head to the [MLH Discord](https://discord.mlh.io/) and find the #ask-oracle channel!
 * Each coding challenge is accompanied by a LiveLab tutorial that will walk you through each challenge step by step
-* If you need additional resources, you can find them at the bottom of this page! 
-
 
 # Registration Challenges
 
