@@ -88,7 +88,7 @@ This workshop will walk you through the basics of developing with Oracle Databas
 * Clone the Spring Boot application source and configure the application to connect to the
 ATP instance
 * Install/configure GraalVM
-* Build the application and native-image and run it to demonstrate connectivity to the
+* Build the application and run it to demonstrate connectivity to the
 database from the Spring Boot application.
 * Develop new functionality of your own using this basic application/microservice
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
