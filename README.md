@@ -13,12 +13,14 @@ Hello hackers!  This week, we're going to learn how to leverage several of Oracl
 ### Sign up and download 23ai VirtualBox
 
 Head over to the [Sign up and download 23ai VirtualBox](https://mlh.link/ghwos24-oracle-23aiVB) to get set up with a new account. 
+* Share a screenshot of your account signup on our [submission form](https://mlh.link/ghwform)!
 <br>
 
 ## Registration Challenge 2
 ### Create an account and Sign in for LiveLabs
 
 Create an [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) so you can leverage Oracle's LiveLab tutorials and complete the rest of their coding challenges!
+* Share a screenshot of your account signup on our [submission form](https://mlh.link/ghwform)!
 <br>
 
 # Coding Challenges
@@ -33,9 +35,11 @@ applications in multiple programming languages.
 * Develop Python Applications for Oracle Autonomous Database
 * Develop Java Applications for Oracle Autonomous Database
 * Develop .NET Applications for Oracle Autonomous Database
-
+* Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
+  
 #### Documentation: 
 * [Polyglot Development with Autonomous Database](https://mlh.link/ghwos24-oracle-polyglot)
+* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) is required to start this coding challenge. 
 
 ## Coding Challenge 2 
 ### SQL, JSON, and MongoDB API: Unify worlds with Oracle Database 23ai Free
@@ -47,9 +51,11 @@ SQL/JSON
 * Use SQL to query, generate, and process JSON data
 * Configure the Mongo API to query or manipulate data in the Oracle Database
 * Learn the newest SQL Enhancements to work with JSON data
+* Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
 #### Documentation:
 * [SQL, JSON, and MongoDB API: Unify worlds with Oracle Database 23ai Free](https://mlh.link/ghwos24-oracle-unifyworlds)
+* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) is required to start this coding challenge. 
 
 ## Coding Challenge 3 
 ### Develop with Oracle Database 23ai and GraalVM using Micronaut
@@ -65,10 +71,12 @@ ATP instance
 * Build the application and native-image and run it to demonstrate connectivity to the
 database from the Micronaut application.
 * Develop new functionality of your own using this basic application/microservice
+* Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
 #### Documentation:
 * [Develop with Oracle Database 23ai and GraalVM using Micronaut](https://mlh.link/ghwos24-oracle-micronaut)
-
+* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) is required to start this coding challenge.
+  
 ## Coding Challenge 4 
 ### Develop with Oracle Database 23ai and GraalVM using Spring Boot
 #### Objectives: 
@@ -83,9 +91,11 @@ ATP instance
 * Build the application and native-image and run it to demonstrate connectivity to the
 database from the Spring Boot application.
 * Develop new functionality of your own using this basic application/microservice
+* Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
 #### Documentation:
 * [Develop with Oracle Database 23ai and GraalVM using Spring Boot ](https://mlh.link/ghwos24-oracle-springboot)
+* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) is required to start this coding challenge.
 
 ## Coding Challenge 5 
 ### Develop with Oracle Database 23ai and GraalVM using Helidon
@@ -101,6 +111,8 @@ instance
 * Build the application and native-image and run it to demonstrate connectivity to the
 database from the Helidon application.
 * Develop new functionality of your own using this basic application/microservice
+* Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
 #### Documentation:
 * [Develop with Oracle Database 23ai and GraalVM using Helidon](https://mlh.link/ghwos24-oracle-helidon)
+* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwos24-oracle-livelabs) is required to start this coding challenge. 
